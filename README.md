@@ -16,7 +16,7 @@ Instructor: Tom Ristenpart (https://rist.tech.cornell.edu)
 
 Office hours: TBA
 
-TAs: Andres Fabrega (af535@cornell.edu), Sanketh Menda (sm2289@cornell.edu)
+TAs: Andres Fabrega (af535@cornell.edu), Dhrumilkumar Patel (djp265@cornell.edu),  Sanketh Menda (sm2289@cornell.edu)
 
 TA Office hours: TBA. You may also join the #office-hours channel on Slack for virtual OH and expect TA response in a day or two.
 
